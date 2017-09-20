@@ -1,7 +1,9 @@
 # Webpage-Mockup
 ## Task : Create a mockup of your desired webpage
-### My Mockup
-[The Boring Company Official Website](https://www.boringcompany.com/)
+### My Target Mockup
 
-Boring Company's Home Page Picture
+[The Boring Company Official Home Page](https://www.boringcompany.com/)
+
+Picture of What I'm Replicating
+
 ![Official Website Picture](Replication.png "Official Website Picture")
