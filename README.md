@@ -6,4 +6,4 @@
 
 Picture of What I'm Replicating
 
-![Official Website Picture](Replication.png "Official Website Picture")
+![Official Website Picture](ToCopy.png "Official Website Picture")
